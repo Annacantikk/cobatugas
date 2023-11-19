@@ -1,2 +1,3 @@
 nama : anna maulidita widy anggraena
 nim : 1512620074
+prodi : pendidikan teknik informatika dan computer
